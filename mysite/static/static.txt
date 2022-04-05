@@ -1,0 +1,1 @@
+this file can be seen from server. and this file contain images and many more things. that's are static.
